@@ -2,4 +2,4 @@
 ## Hello there 👋
 
 - 😄 Hi, I'm Zhi Yuan.
-- 🌱 I’m currently n BSc (Hons) in Computer Science Major in Software Engineering at Universiti Teknologi Malaysia (UTM).
+- 🌱 I’m currently enrolled in BSc (Hons) in Computer Science Major in Software Engineering at Universiti Teknologi Malaysia (UTM).
